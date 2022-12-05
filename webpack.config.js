@@ -7,7 +7,6 @@ module.exports = {
       {
         test: /\.(js)$/,
         test: /\.css$/i,
-        test: /\.html$/i,
         exclude: /node_modules/,
         use: ['babel-loader', 'style-loader', 'css-loader'],
       },
