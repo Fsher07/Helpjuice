@@ -17,7 +17,7 @@
 
 [Video Link](https://drive.google.com/drive/u/1/folders/1MqpIcdyI0zGZF06pql41qjwv4bRzx8vO)
 
-[Live Demo Link](https://fsher07.github.io/To-Do-List/dist)
+[Live Demo Link](https://helpjuice-aosi9idly-fsher07.vercel.app/)
 
 ## Getting Started
 
