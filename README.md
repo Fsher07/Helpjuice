@@ -13,7 +13,9 @@
 - Webpack
 - Tailwind css
 
-## Live Demo (if available)
+## Live Demo and video (if available)
+
+[Video Link](https://drive.google.com/drive/u/1/folders/1MqpIcdyI0zGZF06pql41qjwv4bRzx8vO)
 
 [Live Demo Link](https://fsher07.github.io/To-Do-List/dist)
 
